@@ -1,0 +1,89 @@
+.title
+{
+display: inline-block;
+margin-top:1%;
+margin-right: 10%;
+width:10%;
+height:10%;
+}
+
+h2{
+    display: inline-block;
+    padding-right: 5%;
+    font-family: Arial;
+    font-size: 20px;
+    
+}
+
+.welcome{
+    line-height: 100px;
+    font-family: Arial, Helvetica, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; font-size: 35px; font-weight: bold;
+display: inline-block;
+margin-bottom: 2.5%;
+}
+
+body{
+     text-align: center;
+     background-color: #33475b;
+     color: white;
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+    line-height: 30px;
+    font-weight: normal;
+    margin:auto;
+    margin-bottom: 2.5%;
+}
+
+.buttonlink{
+    display: inline-block;
+    padding-right: 5%;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+    color:green
+}
+
+a:visited{text-decoration: none;}
+a:hover{color: blue}
+a:active{color:yellow}
+
+input{
+    font-size: 20px;
+    line-height: 10px;
+    font-weight: normal;
+    margin:auto;
+    margin-bottom: 1.5%;
+    width: 65%;
+}
+
+textarea{
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: normal;
+    margin:auto;
+    margin-bottom: 1.5%;
+    width: 65%;
+}
+
+button{
+    width:10%;
+    font-size: 20px;
+    font-weight: normal;    
+    height: 50px;
+}
+
+.helplah{
+    text-align: left;
+}
+.c-img{
+    display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
